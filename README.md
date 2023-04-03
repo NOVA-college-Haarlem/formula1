@@ -1,4 +1,4 @@
-# De Formula 1 Database
+# De Formule 1 Database
 
 ## Introductie
 
